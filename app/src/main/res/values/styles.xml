@@ -1,0 +1,6 @@
+<resources>
+    <!-- Custom style for BottomNavigationView with large icons -->
+    <style name="BottomNavigationViewLargeIcon" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconSize">45dp</item> <!-- Adjust the size as needed -->
+    </style>
+</resources>
